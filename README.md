@@ -2,6 +2,8 @@
 
 It's time to expand our CSS skills into multiple devices.  You will be creating an adaptive version of the "Great Idea" design. You will be working through design mock ups for desktop, tablet, and mobile devices located in the [design-files](design-files) folder. 
 
+TO DO:
+
 ## Task 1: Set Up The Project With Git
 
 Follow these steps to set up and work on your project:
